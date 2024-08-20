@@ -32,6 +32,6 @@ All StitchingNet data can be downloaded directly from our [Google Cloud Storage 
 The StitchingNet is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). 
 
 ## Contact
-Please email Hyungjung Kim (hyungjungkim@konkuk.ac.kr, maintainer) or Woo-Kyun Jung (wkjung@hojeon.co.kr, creator) for any questions regarding the dataset.
+Please email Woo-Kyun Jung (wkjung@hojeon.co.kr, creator) or Hyungjung Kim (hyungjungkim@konkuk.ac.kr, maintainer) for any questions regarding the dataset.
 
 <img src="images/hojeon_limited.jpg" height="45"/><img src="images/konkuk_university.jpg" height="45"/>
