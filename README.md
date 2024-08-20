@@ -22,7 +22,10 @@ At clothing production sites, various types of sewing defects are a common occur
 ### Sample images (total 114 images)
 <img src="images/dataset-samples.png" height="400"/>
 
-## Citation
+## Download data
+All StitchingNet data can be downloaded directly from our [Google Cloud Storage bucket](https://console.cloud.google.com/storage/browser/stitchingnet-v1).
+
+## Paper & Citation
 (To be updated.)
 
 ## License
