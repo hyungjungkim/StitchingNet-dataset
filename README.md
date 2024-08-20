@@ -11,7 +11,7 @@ Obtaining diverse and extensive datasets to effectively train recent deep learni
 At clothing production sites, various types of sewing defects are a common occurrence. This dataset contains the conditions for defects for each major sewing defect, as determined by experienced sewing workers. The dataset includes data on 11 fabrics, with sewing conditions set for dataset generation by combining threads with similar or opposite fabric colors. This configuration is intended to reflect the color and composition conditions of several fabrics and threads in the dataset, enabling the training of robust deep learning models for sewing defect detection. The potential impact of this dataset on the field of computer vision and textile manufacturing is significant. For each of the 11 combinations, 100 to 179 data points were produced for normal and 10 defective classes, resulting in a total of 13,424 sewing process images.
 
 ### Creation details
-- Time period: YYYY.MM ~ YYYY.MM
+- Time period: 2022.11 - 2023.03
 - Sewing machine: Brother S-7200C-403
 - Vision sensor: Raspberry Pi Camera V2
 - Image size: **224 x 224 pixels**
