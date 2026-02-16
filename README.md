@@ -6,7 +6,6 @@ In quality control, a sewing defect refers to inconsistencies in stitches when f
 
 ## Dataset description
 At clothing production sites, various types of sewing defects are a common occurrence. This dataset contains the conditions for defects for each major sewing defect, as determined by experienced sewing workers. The dataset includes data on 11 fabrics, with sewing conditions set for dataset generation by combining threads with similar or opposite fabric colors. This configuration is intended to reflect the color and composition conditions of several fabrics and threads in the dataset, enabling the training of robust deep learning models for sewing defect detection. The potential impact of this dataset on the field of computer vision and textile manufacturing is significant. We captured an average of 221 normal and 103 defective images of 10 cases for each fabric-thread combination.
- * Some defective combinations are undergoing quality improvement.
 
 ### Creation details
 - Time period: 2022.11 - 2023.03
@@ -29,6 +28,7 @@ We provide a reference benchmark Python codes in the [code-example folder](./cod
 ## Download
 StitchingNet data can also be downloaded directly from the following repositories:
 - [Kaggle](https://www.kaggle.com/datasets/hyungjung/stitchingnet-dataset)
+- [Hugging Face](https://huggingface.co/datasets/hyungjungkim/StitchingNet)
 - [Mendeley data](https://data.mendeley.com/datasets/6tdthsjgfc/1)
 - [figshare](https://figshare.com/articles/dataset/_b_StitchingNet_b_A_dataset_of_14_5K_sewing_stitch_images_for_the_industrial_sewing_process/30407806)
 
